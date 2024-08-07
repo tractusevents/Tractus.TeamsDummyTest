@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Selenuim_Teams": {
+      "commandName": "Project",
+      "commandLineArgs": ""
+    }
+  }
+}
